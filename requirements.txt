@@ -1,0 +1,5 @@
+
+numpy==1.23.5
+opencv_python==4.5.5.64
+Pillow==9.5.0
+Pillow==10.3.0
